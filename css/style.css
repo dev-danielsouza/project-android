@@ -71,7 +71,9 @@ nav {
 
 @media (max-width: 574px) {
   nav {
-    padding-left: 25px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
   }
 }
 
